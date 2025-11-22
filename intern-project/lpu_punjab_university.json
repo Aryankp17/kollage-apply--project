@@ -1,0 +1,44 @@
+{
+  "universityName": "Lovely Professional University",
+  "slug": "lpu-punjab",
+  "location": "Phagwara, Punjab, India",
+  "brochure_url": "/mnt/data/Assessment Task – Web Development Intern (API & Landing Pages).docx.pdf",
+  "courses": [
+    {
+      "code": "BTECH-CSE",
+      "name": "B.Tech in Computer Science & Engineering",
+      "duration_years": 4,
+      "first_year_fee_inr": {
+        "min": 240000,
+        "max": 400000
+      }
+    },
+    {
+      "code": "MBA",
+      "name": "MBA (General)",
+      "duration_years": 2,
+      "first_year_fee_inr": {
+        "min": 250000,
+        "max": 350000
+      }
+    },
+    {
+      "code": "BBA",
+      "name": "BBA",
+      "duration_years": 3,
+      "first_year_fee_inr": {
+        "min": 120000,
+        "max": 180000
+      }
+    },
+    {
+      "code": "BCA",
+      "name": "BCA",
+      "duration_years": 3,
+      "first_year_fee_inr": {
+        "min": 100000,
+        "max": 150000
+      }
+    }
+  ]
+}
